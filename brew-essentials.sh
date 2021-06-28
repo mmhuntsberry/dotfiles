@@ -26,21 +26,28 @@ if test ! $(which brew); then
   brew tap homebrew/cask
 
   ## Apps I use
-  brew install gnu-sed
+  brew install --cask 1password
   brew install alfred
+  brew install --cask clipy
   brew cask install docker
   # brew install dropbox
+  brew install --cask figma
   brew install git
   # brew install google-backup-and-sync
+  brew install gnu-sed
   brew install google-chrome #Chrome
   # brew install google-drive
   brew install homebrew/cask-versions/firefox-nightly # Nightly
   brew install homebrew/cask-versions/google-chrome-canary # Chrome Canary
   brew install mysql
+  brew install --cask mysqlworkbench
   brew install notion
   brew install nvm
-  brew install tree
+  brew install --cask postman
+  brew install --cask rectangle
+  brew install --cask rocket-chat
   brew install slack
+  brew install tree
   brew install visual-studio-code
   brew install yarn
   brew install zoom
