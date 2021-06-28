@@ -1,0 +1,11 @@
+alias cra='npx create-react-app'
+alias sshpersonal='ssh-add ~/.ssh/mmhuntsberry_github'
+alias sshd='ssh-add -D'
+alias sshworkpersonal='ssh-add ~/.ssh/work_personal_github'
+alias sshwork='ssh-add ~/.ssh/work_github'
+alias ga='git add'
+alias gc='git commit'
+alias gpom='git push origin master'
+alias gpod='git push origin develop'
+alias gcb='git checkout'
+
